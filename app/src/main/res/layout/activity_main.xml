@@ -46,21 +46,33 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent">
         <com.google.android.material.button.MaterialButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
             style="@style/MyStyle"
             app:backgroundTint="#FF03DAC5"
             android:text="@string/_7"
             android:onClick="onNumberClick"/>
         <com.google.android.material.button.MaterialButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
             style="@style/MyStyle"
             android:text="@string/_8"
             app:backgroundTint="#FF03DAC5"
             android:onClick="onNumberClick"            />
         <com.google.android.material.button.MaterialButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
             style="@style/MyStyle"
             app:backgroundTint="#FF03DAC5"
             android:text="@string/_9"
             android:onClick="onNumberClick"/>
         <com.google.android.material.button.MaterialButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
             style="@style/MyStyle"
             app:backgroundTint="#e91e63"
             android:text="@string/_division"
@@ -75,21 +87,33 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent">
         <com.google.android.material.button.MaterialButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
             style="@style/MyStyle"
             app:backgroundTint="#FF03DAC5"
             android:text="@string/_4"
             android:onClick="onNumberClick"/>
         <com.google.android.material.button.MaterialButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
             style="@style/MyStyle"
             app:backgroundTint="#FF03DAC5"
             android:text="@string/_5"
             android:onClick="onNumberClick"/>
         <com.google.android.material.button.MaterialButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
             style="@style/MyStyle"
             app:backgroundTint="#FF03DAC5"
             android:text="@string/_6"
             android:onClick="onNumberClick"/>
         <com.google.android.material.button.MaterialButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
             style="@style/MyStyle"
             app:backgroundTint="#e91e63"
             android:text="@string/_multiply"
@@ -104,21 +128,33 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent">
         <com.google.android.material.button.MaterialButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
             style="@style/MyStyle"
             app:backgroundTint="#FF03DAC5"
             android:text="@string/_1"
             android:onClick="onNumberClick"/>
         <com.google.android.material.button.MaterialButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
             style="@style/MyStyle"
             app:backgroundTint="#FF03DAC5"
             android:text="@string/_2"
             android:onClick="onNumberClick"/>
         <com.google.android.material.button.MaterialButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
             style="@style/MyStyle"
             app:backgroundTint="#FF03DAC5"
             android:text="@string/_3"
             android:onClick="onNumberClick"/>
         <com.google.android.material.button.MaterialButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
             style="@style/MyStyle"
             app:backgroundTint="#e91e63"
             android:text="@string/_minus"
@@ -133,21 +169,33 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent">
         <com.google.android.material.button.MaterialButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
             style="@style/MyStyle"
             app:backgroundTint="#FF03DAC5"
             android:text="@string/_0"
             android:onClick="onNumberClick"/>
         <com.google.android.material.button.MaterialButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
             style="@style/MyStyle"
             app:backgroundTint="#FF03DAC5"
             android:text="@string/_point"
             android:onClick="onNumberClick"/>
         <com.google.android.material.button.MaterialButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
             style="@style/MyStyle"
             app:backgroundTint="#e91e63"
             android:text="@string/_plus"
             android:onClick="onOperationClick"/>
         <com.google.android.material.button.MaterialButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
             style="@style/MyStyle"
             app:backgroundTint="#e91e63"
             android:text="@string/_result"
