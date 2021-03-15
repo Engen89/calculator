@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <style name="MyStyle">
+       <item name="android:textSize">@dimen/button_text</item>
+       <item name="android:layout_width">@dimen/layout_width_button</item>
+       <item name="android:layout_height">@dimen/layout_height_button</item>
+       <item name="android:layout_weight">@dimen/layout_weight_button</item>
+   </style>
+
+    <style name="MyStyle2" parent="Theme.MaterialComponents.Light">
+        <item name="android:textSize">@dimen/button_text</item>
+        <item name="android:layout_width">@dimen/layout_width_button</item>
+        <item name="android:layout_height">@dimen/layout_height_button</item>
+        <item name="android:layout_weight">@dimen/layout_weight_button</item>
+        <item name="colorAccent">#ff6090</item>
+    </style>
+
+
+</resources>
